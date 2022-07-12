@@ -1,0 +1,9 @@
+img {
+  max-width: 200px;
+  max-height: 200px;
+  display: inline;
+  margin-top: 3rem;
+  margin-bottom: 3rem;
+
+  clip-path: circle(50% at 50% 50%);
+}
